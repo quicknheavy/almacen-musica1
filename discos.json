@@ -5,5 +5,12 @@
         "artista": "La Polla Records",
         "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/levantateymuere.jpg",
         "repo": "1"
+    },
+    {
+        "id": "_8SJElnOD09",
+        "titulo": "En Tu Recto",
+        "artista": "La Polla Records",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/enturectolapolla.jpg",
+        "repo": "2"
     }
 ]
