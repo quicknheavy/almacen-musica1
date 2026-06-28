@@ -12,5 +12,26 @@
         "artista": "La Polla Records",
         "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/enturectolapolla.jpg",
         "repo": "2"
+    },
+    {
+        "id": "_CVQyLBifbp",
+        "titulo": "Highway to Hell",
+        "artista": "ACDC",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/highwaytohellacdc.jpg",
+        "repo": "1"
+    },
+    {
+        "id": "_mnCjBM5hhz",
+        "titulo": "The Number of The Beast",
+        "artista": "Iron Maiden",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/numberofthebeastmaiden.jpg",
+        "repo": "1"
+    },
+    {
+        "id": "_XJ4ZTYpAg5",
+        "titulo": "9.0 (Live)",
+        "artista": "Slipknot",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/9.0slipknot.jpg",
+        "repo": "1"
     }
 ]
