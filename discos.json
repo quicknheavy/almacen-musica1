@@ -33,5 +33,12 @@
         "artista": "Slipknot",
         "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/9.0slipknot.jpg",
         "repo": "1"
+    },
+    {
+        "id": "_LhbTQBWJHa",
+        "titulo": "Piece of Mind",
+        "artista": "Iron Maiden",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/pieceofmindmaiden.jpg",
+        "repo": "1"
     }
 ]
