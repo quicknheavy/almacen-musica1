@@ -40,5 +40,40 @@
         "artista": "Iron Maiden",
         "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/pieceofmindmaiden.jpg",
         "repo": "1"
+    },
+    {
+        "id": "_G8EfZjBijc",
+        "titulo": "Salve",
+        "artista": "La Polla Records",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/salvelapolla.jpg",
+        "repo": "1"
+    },
+    {
+        "id": "_NP8YYvLT0v",
+        "titulo": "Dirty Deeds Done Dirt Cheap",
+        "artista": "ACDC",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/acdc/dirtydeedsacdc.jpg",
+        "repo": "1"
+    },
+    {
+        "id": "_a0KTtS9UEQ",
+        "titulo": "If You Want Blood (You've Got It) (Live)",
+        "artista": "ACDC",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/acdc/ifyouwantbloodacdc.jpg",
+        "repo": "1"
+    },
+    {
+        "id": "_VVcysRRodL",
+        "titulo": "Back In Black",
+        "artista": "ACDC",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/acdc/backinblackacdc.png",
+        "repo": "1"
+    },
+    {
+        "id": "_DPqjdHwSug",
+        "titulo": "Bajo Presion",
+        "artista": "La Polla Records",
+        "img": "https://nsjqgtopdtnujrclxicy.supabase.co/storage/v1/object/public/covers/lapolla/bajopresionlapolla.jpg",
+        "repo": "1"
     }
 ]
